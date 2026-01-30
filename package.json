@@ -1,7 +1,7 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@TuanVinn7/bail",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "description": "WhatsApp API Modification By TuanVinn",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/RILLYZY/bails",
+    "homepage": "https://github.com/TuanVinn7/bail",
     "repository": {
-        "url": "https://github.com/RILLYZY/bails"
+        "url": "https://github.com/TuanVinn7/bail"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "TuanVinn",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
